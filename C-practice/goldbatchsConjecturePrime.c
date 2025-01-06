@@ -1,4 +1,4 @@
-//Problem:  Write a function to check if an even number  can be expressed as the sum of two 
+//Problem:  Write a function to check if an even number can be expressed as the sum of two 
 //prime numbers (Goldbach's conjecture). 
 #include <stdio.h>
 int isPrime(int n)
