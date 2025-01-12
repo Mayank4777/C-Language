@@ -6,7 +6,7 @@ int main()
     printf("enter a and b\n");
     scanf("%f %f",&a,&b);
 
-    printf("enter c and d\n");
+    printf("enter c and d for mod\n");
     scanf("%d %d",&c,&d);
 
     add=a+b;
